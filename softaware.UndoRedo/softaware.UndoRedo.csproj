@@ -11,8 +11,8 @@
     <Description>A library for facilitating the implementation of an undo/redo stack.</Description>
     <Copyright>Copyright 2019</Copyright>
     <RepositoryType>git</RepositoryType>
-    <PackageProjectUrl>https://github.com/softawaregmbh/library-viewport</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/softawaregmbh/library-viewport</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/softawaregmbh/library-undo-redo</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/softawaregmbh/library-undo-redo</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageId>softaware.UndoRedo</PackageId>
     <PackageTags>softaware undo redo</PackageTags>
